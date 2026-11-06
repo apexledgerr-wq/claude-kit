@@ -66,4 +66,5 @@ echo "Installed: ${#ok[@]}"; printf '  ok   %s\n' "${ok[@]}"
 [ ${#failed[@]} -gt 0 ] && { echo "Failed: ${#failed[@]}"; printf '  FAIL %s\n' "${failed[@]}"; }
 echo
 echo "Now open a NEW Claude Code session, type /tui fullscreen, and try:"
-echo "  /agents-info   /skin dracula   /filetree   /keepwarm 90m   /replay   /browser"
+echo "  /agents-info   /skin dracula   /filetree   /keepwarm 90m   /replay"
+command -v terminal-browser >/dev/null && echo "  /browser"
