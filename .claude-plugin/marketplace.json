@@ -23,6 +23,13 @@
       "description": "Mod: band above the prompt with turn, speed, cost, prompt cache countdown and context; notifies before the cache expires.",
       "version": "0.2.0",
       "category": "mod"
+    },
+    {
+      "name": "business-strategist",
+      "source": "./plugins/business-strategist",
+      "description": "Agent: strict business mentor for ideas, pricing, unit economics and growth plans, in simple words with real numbers.",
+      "version": "1.0.0",
+      "category": "agent"
     }
   ]
 }

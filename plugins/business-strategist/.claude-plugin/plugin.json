@@ -1,0 +1,8 @@
+{
+  "name": "business-strategist",
+  "version": "1.0.0",
+  "description": "A strict business mentor subagent: ideas, pricing, unit economics and growth plans, in simple words with real numbers. Adapted from msitarzewski/agency-agents (MIT).",
+  "author": { "name": "apexledgerr-wq", "url": "https://github.com/apexledgerr-wq" },
+  "license": "MIT",
+  "keywords": ["agent", "business", "strategy"]
+}
