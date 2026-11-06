@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-code-filetree": {
+      "source": { "source": "github", "repo": "apexledgerr-wq/claude-code-filetree" }
+    }
+  },
+  "enabledPlugins": {
+    "filetree@claude-code-filetree": true
+  }
+}
